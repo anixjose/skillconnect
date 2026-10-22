@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Illustrated portrait of Anitha George (sample profile)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fde7c8"/>
+      <stop offset="1" stop-color="#f6c99a"/>
+    </linearGradient>
+    <linearGradient id="kurta" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0f9b8e"/>
+      <stop offset="1" stop-color="#0b7a70"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <!-- soft sun circle -->
+  <circle cx="300" cy="96" r="70" fill="#fff4e2" opacity=".7"/>
+
+  <!-- hair back + bun -->
+  <circle cx="200" cy="112" r="40" fill="#2b1a12"/>
+  <path d="M120 200c-8-72 30-118 80-118s88 46 80 118c-4 40-14 70-22 88H142c-8-18-18-48-22-88z" fill="#2b1a12"/>
+
+  <!-- body / kurta -->
+  <path d="M84 400c4-70 46-112 116-112s112 42 116 112z" fill="url(#kurta)"/>
+  <!-- dupatta -->
+  <path d="M110 336c40 18 78 30 124 30 30 0 54-6 72-14l10 48H96z" fill="#f59e0b" opacity=".9"/>
+  <path d="M140 300c20 40 44 64 60 64s40-24 60-64" fill="none" stroke="#fbbf24" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- neck -->
+  <path d="M178 262h44v34c0 12-10 20-22 20s-22-8-22-20z" fill="#b97a56"/>
+  <!-- face -->
+  <ellipse cx="200" cy="200" rx="62" ry="72" fill="#c98b63"/>
+  <!-- ears + earrings -->
+  <ellipse cx="139" cy="206" rx="9" ry="14" fill="#b97a56"/>
+  <ellipse cx="261" cy="206" rx="9" ry="14" fill="#b97a56"/>
+  <circle cx="139" cy="226" r="5" fill="#fbbf24"/>
+  <circle cx="261" cy="226" r="5" fill="#fbbf24"/>
+  <!-- hair front (centre parting, soft sides) -->
+  <path d="M138 196c-2-52 26-80 62-80s64 28 62 80c-10-30-30-50-62-54-32 4-52 24-62 54z" fill="#2b1a12"/>
+  <path d="M200 120v26" stroke="#c0392b" stroke-width="3" stroke-linecap="round"/>
+  <!-- bindi -->
+  <circle cx="200" cy="168" r="4" fill="#c0392b"/>
+  <!-- eyebrows -->
+  <path d="M164 182q14-8 26-2M210 180q12-6 26 2" fill="none" stroke="#2b1a12" stroke-width="4" stroke-linecap="round"/>
+  <!-- eyes (smiling) -->
+  <path d="M166 200q10-9 20 0M214 200q10-9 20 0" fill="none" stroke="#2b1a12" stroke-width="4" stroke-linecap="round"/>
+  <!-- cheeks -->
+  <circle cx="166" cy="224" r="10" fill="#e8907a" opacity=".45"/>
+  <circle cx="234" cy="224" r="10" fill="#e8907a" opacity=".45"/>
+  <!-- nose -->
+  <path d="M200 206q-6 14 2 18" fill="none" stroke="#9c6244" stroke-width="3" stroke-linecap="round"/>
+  <!-- smile -->
+  <path d="M178 238q22 20 44 0" fill="#7a2e2a" stroke="#7a2e2a" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M184 240q16 8 32 0" fill="#fff" opacity=".9"/>
+</svg>
