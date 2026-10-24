@@ -1,1 +1,0 @@
-import{j as e}from"./ui-DQQISFZe.js";import{ae as r,ax as t}from"./index-DMyjnuiR.js";import"./react-S61qGxoo.js";import"./supabase-D7KwEo6u.js";function n(){return e.jsxs(e.Fragment,{children:[e.jsx(r,{title:"Service requests",description:"Accept, decline, propose a new time or send a quotation."}),e.jsx(t,{as:"provider"})]})}export{n as default};
